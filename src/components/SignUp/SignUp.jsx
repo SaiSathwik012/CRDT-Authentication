@@ -52,7 +52,7 @@ function SignUpPage() {
 
           <button className="signup-btn">Create Account</button>
 
-          <p className="switch-login">Already have an account? <a href="#">Sign in instead</a></p>
+          <p className="switch-login">Already have an account? <a href="/login">Sign in instead</a></p>
         </div>
       </div>
 

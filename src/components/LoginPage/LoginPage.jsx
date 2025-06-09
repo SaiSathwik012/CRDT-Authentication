@@ -39,7 +39,7 @@ function LoginPage() {
             <button className="login-btn">Sign In</button>
 
             <p className="switch-login">
-              Don’t have an account? <a href="#">Sign up now</a>
+              Don’t have an account? <a href="/signUp">Sign up now</a>
             </p>
           </div>
         </div>
